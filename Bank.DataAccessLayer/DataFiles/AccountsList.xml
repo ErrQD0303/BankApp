@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <AccountID>66e62ecb-a5e2-46fb-910c-f985b7d1d61a</AccountID>
+    <AccountNumber>10001</AccountNumber>
+    <CustomerCode>1002</CustomerCode>
+    <Balance>20000</Balance>
+  </Account>
+  <Account>
+    <AccountID>d69c42d7-aad1-42d9-9a8f-2d9bc7a5dd0e</AccountID>
+    <AccountNumber>10002</AccountNumber>
+    <CustomerCode>1002</CustomerCode>
+    <Balance>1000</Balance>
+  </Account>
+  <Account>
+    <AccountID>6424242f-c3d6-41b2-9561-25972e08f0d5</AccountID>
+    <AccountNumber>10003</AccountNumber>
+    <CustomerCode>1003</CustomerCode>
+    <Balance>499000</Balance>
+  </Account>
+  <Account>
+    <AccountID>0cd97274-0f0d-48e0-b2dd-b4062162100c</AccountID>
+    <AccountNumber>10004</AccountNumber>
+    <CustomerCode>1004</CustomerCode>
+    <Balance>480000</Balance>
+  </Account>
+</ArrayOfAccount>

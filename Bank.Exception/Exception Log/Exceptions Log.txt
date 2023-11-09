@@ -1,0 +1,118 @@
+09/11/2023 12:55:37 SA
+String was not recognized as a valid DateTime.
+System.FormatException
+
+09/11/2023 9:09:21 SA
+Cannot create an instance of an interface.
+System.MissingMethodException
+
+09/11/2023 9:10:04 SA
+Cannot create an instance of an interface.
+System.MissingMethodException
+
+09/11/2023 9:10:29 SA
+Cannot create an instance of an interface.
+System.MissingMethodException
+
+09/11/2023 9:27:06 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:27:08 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:35:30 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:35:34 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:35:40 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:36:08 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:36:32 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:36:56 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:37:28 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:38:06 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:38:20 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:39:39 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:41:08 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:42:01 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:42:04 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:42:06 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:49:36 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:49:38 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:53:57 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:57:04 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 9:57:06 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 10:30:59 SA
+The type initializer for 'BankApp.Helper.AccountHelper' threw an exception.
+System.TypeInitializationException
+
+09/11/2023 10:32:48 SA
+Value cannot be null.
+Parameter name: type
+System.ArgumentNullException
+
+09/11/2023 10:33:29 SA
+Value cannot be null.
+Parameter name: type
+System.ArgumentNullException
+
+09/11/2023 10:36:34 SA
+Input string was not in a correct format.
+System.FormatException
+
